@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Strings">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Long CS"/>
+	<Attributes pitch="3" name="Long Flautando"/>
+	<Attributes pitch="4" name="Spiccato"/>
+	<Attributes pitch="5" name="Staccato"/>
+	<Attributes pitch="6" name="Pizzicato"/>
+	<Attributes pitch="7" name="Col Legno"/>
+	<Attributes pitch="8" name="Tremolo"/>
+	<Attributes pitch="9" name="Trill Major 2nd"/>
+	<Attributes pitch="10" name="Trill Minor 2nd"/>
+	<Attributes pitch="11" name="Long Sul Tasto"/>
+	<Attributes pitch="12" name="Long Harmonics"/>
+	<Attributes pitch="13" name="Short Harmonics"/>
+	<Attributes pitch="14" name="Bartok Pizzicato"/>
+	<Attributes pitch="15" name="Long Marcato Attack"/>
+	<Attributes pitch="16" name="Tremolo Sul Point"/>
+	<Attributes pitch="17" name="Tremolo CS"/>
+	<Attributes pitch="18" name="Long Sul Pont"/>
+	<Attributes pitch="19" name="Spiccato CS"/>
+</Music.KeySwitchList>

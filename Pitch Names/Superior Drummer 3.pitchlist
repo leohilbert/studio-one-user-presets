@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="127" name="Snare Forward Brushtrig" color="FF51D361"/>
+	<Music.PitchName pitch="126" name="Snare Backward Brushtrig" color="FF51D361"/>
+	<Music.PitchName pitch="125" name="Snare Mid Center" color="FF51D361"/>
+	<Music.PitchName pitch="124" name="Hi-Hat Open Bell 4" color="FFFFAC0D"/>
+	<Music.PitchName pitch="123" name="Hi-Hat Open Bell 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="122" name="Hi-Hat Open Bell 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="121" name="Hi-Hat Open Bell 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="120" name="Hi-Hat Open Bell 0" color="FFFFAC0D"/>
+	<Music.PitchName pitch="119" name="Hi-Hat Closed Bell" color="FFFFAC0D"/>
+	<Music.PitchName pitch="118" name="Ride Mute Hit" color="FF5C00FF"/>
+	<Music.PitchName pitch="117" name="Ride Bell Tip" color="FF5C00FF"/>
+	<Music.PitchName pitch="116" name="Ride Bow Shank" color="FF5C00FF"/>
+	<Music.PitchName pitch="115" name="Ride Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="114" name="Ride Bell Shank" color="FF5C00FF"/>
+	<Music.PitchName pitch="113" name="Ride Bow Tip" color="FF5C00FF"/>
+	<Music.PitchName pitch="112" name="Cymbal 5 Bell Tip" color="FFBC2807"/>
+	<Music.PitchName pitch="111" name="Cymbal 5 Bow Shank" color="FFBC2807"/>
+	<Music.PitchName pitch="110" name="Cymbal 5 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="109" name="Cymbal 5 Bell Shank" color="FFBC2807"/>
+	<Music.PitchName pitch="108" name="Cymbal 5 Bow Tip" color="FFBC2807"/>
+	<Music.PitchName pitch="107" name="Cymbal 5 Mute" color="FFBC2807"/>
+	<Music.PitchName pitch="106" name="Cymbal 4 Mute" color="FFB03248"/>
+	<Music.PitchName pitch="105" name="Cymbal 4 Bell Tip" color="FFB03248"/>
+	<Music.PitchName pitch="104" name="Cymbal 4 Bow Shank" color="FFB03248"/>
+	<Music.PitchName pitch="103" name="Cymbal 4 Crash" color="FFB03248"/>
+	<Music.PitchName pitch="102" name="Cymbal 4 Bell Shank" color="FFB03248"/>
+	<Music.PitchName pitch="101" name="Cymbal 4 Bow Tip" color="FFB03248"/>
+	<Music.PitchName pitch="100" name="Cymbal 3 Bell Tip" color="FFA63065"/>
+	<Music.PitchName pitch="99" name="Cymbal 3 Bow Shank" color="FFA63065"/>
+	<Music.PitchName pitch="98" name="Cymbal 3 Crash" color="FFA63065"/>
+	<Music.PitchName pitch="97" name="Cymbal 3 Bell Shank" color="FFA63065"/>
+	<Music.PitchName pitch="96" name="Cymbal 3 Bow Tip" color="FFA63065"/>
+	<Music.PitchName pitch="95" name="Cymbal 3 Mute Hit" color="FFA63065"/>
+	<Music.PitchName pitch="94" name="Cymbal 2 Mute Hit" color="FFC746CC"/>
+	<Music.PitchName pitch="93" name="Cymbal 2 Bell Tip" color="FFC746CC"/>
+	<Music.PitchName pitch="92" name="Cymbal 2 Bow Shank" color="FFC746CC"/>
+	<Music.PitchName pitch="91" name="Cymbal 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="90" name="Cymbal 2 Bell Shank" color="FFC746CC"/>
+	<Music.PitchName pitch="89" name="Cymbal 2 Bow Tip" color="FFC746CC"/>
+	<Music.PitchName pitch="88" name="Cymbal 1 Bell Tip" color="FF8D56FF"/>
+	<Music.PitchName pitch="87" name="Cymbal 1 Bow Shank" color="FF8D56FF"/>
+	<Music.PitchName pitch="86" name="Cymbal 1 Crash" color="FF8D56FF"/>
+	<Music.PitchName pitch="85" name="Cymbal 1 Bell Shank" color="FF8D56FF"/>
+	<Music.PitchName pitch="84" name="Cymbal 1 Bow Tip" color="FF8D56FF"/>
+	<Music.PitchName pitch="83" name="Cymbal 1 Mute Hit" color="FF8D56FF"/>
+	<Music.PitchName pitch="82" name="Racktom 1 Rimshot" color="FF6DE8EA"/>
+	<Music.PitchName pitch="81" name="Racktom 1 Rim Only" color="FF6DE8EA"/>
+	<Music.PitchName pitch="80" name="Racktom 2 Rimshot" color="FF00E0FB"/>
+	<Music.PitchName pitch="79" name="Racktom 2 Rim Only" color="FF00E0FB"/>
+	<Music.PitchName pitch="78" name="Racktom 3 Rimshot" color="FF2FB1FF"/>
+	<Music.PitchName pitch="77" name="Racktom 3 Rim Only" color="FF2FB1FF"/>
+	<Music.PitchName pitch="76" name="Ride Crescendo" color="FF5C00FF"/>
+	<Music.PitchName pitch="75" name="Floortom 1 Rimshot" color="FF5C8498"/>
+	<Music.PitchName pitch="74" name="Floortom 1 Rim Only" color="FF5C8498"/>
+	<Music.PitchName pitch="73" name="Floortom 2 Rimshot" color="FF4872A9"/>
+	<Music.PitchName pitch="72" name="Floortom 2 Rim Only" color="FF4872A9"/>
+	<Music.PitchName pitch="71" name="Snare Rim Only" color="FF51D361"/>
+	<Music.PitchName pitch="69" name="Snare Flam" color="FF51D361"/>
+	<Music.PitchName pitch="68" name="Snare Muted" color="FF51D361"/>
+	<Music.PitchName pitch="67" name="Snare Forward Swirl" color="FF51D361"/>
+	<Music.PitchName pitch="66" name="Snare Backward Swirl" color="FF51D361"/>
+	<Music.PitchName pitch="65" name="Hi-Hat Sequenced Hits" color="FFFFAC0D"/>
+	<Music.PitchName pitch="64" name="Hi-Hat Open Edge 0" color="FFFFAC0D"/>
+	<Music.PitchName pitch="63" name="Hi-Hat Tight Tip" color="FFFFAC0D"/>
+	<Music.PitchName pitch="62" name="Hi-Hat Tight Edge" color="FFFFAC0D"/>
+	<Music.PitchName pitch="61" name="Hi-Hat Closed Tip" color="FFFFAC0D"/>
+	<Music.PitchName pitch="60" name="Hi-Hat Open Edge 4" color="FFFFAC0D"/>
+	<Music.PitchName pitch="59" name="Ride Crash" color="FF5C00FF"/>
+	<Music.PitchName pitch="58" name="Cymbal 4 Mute Hit" color="FFB03248"/>
+	<Music.PitchName pitch="57" name="Cymbal 4 Crashe" color="FFB03248"/>
+	<Music.PitchName pitch="56" name="Cymbal 3 Mute Hit" color="FFA63065"/>
+	<Music.PitchName pitch="55" name="Cymbal 3 Crashed" color="FFA63065"/>
+	<Music.PitchName pitch="54" name="Cymbal 5 Mute Hit" color="FFBC2807"/>
+	<Music.PitchName pitch="53" name="Ride Bell Shank" color="FF5C00FF"/>
+	<Music.PitchName pitch="52" name="Cymbal 5 Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="51" name="Ride Bow Tip" color="FF5C00FF"/>
+	<Music.PitchName pitch="50" name="Cymbal 2 Mute Hit" color="FFC746CC"/>
+	<Music.PitchName pitch="49" name="Cymbal 2 Crash" color="FFC746CC"/>
+	<Music.PitchName pitch="48" name="Racktom 1 Center" color="FF6DE8EA"/>
+	<Music.PitchName pitch="47" name="Racktom 2 Center" color="FF00E0FB"/>
+	<Music.PitchName pitch="46" name="Hi-Hat Open Edge 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="45" name="Racktom 3 Center" color="FF2FB1FF"/>
+	<Music.PitchName pitch="44" name="Hi-Hat Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="43" name="Floortom 1 Center" color="FF5C8498"/>
+	<Music.PitchName pitch="42" name="Hi-Hat Colsed Tip" color="FFFFAC0D"/>
+	<Music.PitchName pitch="41" name="Floortom 2 Center" color="FF4872A9"/>
+	<Music.PitchName pitch="40" name="Snare Rimshot" color="FF51D361"/>
+	<Music.PitchName pitch="39" name="Snare Ruff" color="FF3CAF66"/>
+	<Music.PitchName pitch="38" name="Snare Center" color="FF3CAF66"/>
+	<Music.PitchName pitch="37" name="Snare Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="36" name="Kick Open" color="FF427FCE"/>
+	<Music.PitchName pitch="35" name="Kick Hit" color="FF427FCE"/>
+	<Music.PitchName pitch="34" name="Kick Open" color="FF427FCE"/>
+	<Music.PitchName pitch="33" name="Snare Edge" color="FF51D361"/>
+	<Music.PitchName pitch="32" name="Cymbal 4 Bell Shank" color="FFB03248"/>
+	<Music.PitchName pitch="31" name="Cymbal 4 Bow Tip" color="FFB03248"/>
+	<Music.PitchName pitch="30" name="Ride Bell Shank" color="FF5C00FF"/>
+	<Music.PitchName pitch="29" name="Ride Bow Shank" color="FF5C00FF"/>
+	<Music.PitchName pitch="28" name="Cymbal 2 Bell Shank" color="FFC746CC"/>
+	<Music.PitchName pitch="27" name="Cymbal 2 Bow Tip" color="FFC746CC"/>
+	<Music.PitchName pitch="26" name="Hi-Hat Open Edge 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="25" name="Hi-Hat Open Edge 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="24" name="Hi-Hat Open Edge 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="23" name="Hi-Hat Open Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="22" name="Hi-Hat Closed Edge" color="FFFFAC0D"/>
+	<Music.PitchName pitch="21" name="Hi-Hat Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="20" name="Hi-Hat Bell Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="19" name="Hi-Hat Tip Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="18" name="Hi-Hat Edge Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="17" name="Hi-Hat Open Tip 5" color="FFFFAC0D"/>
+	<Music.PitchName pitch="16" name="Hi-Hat Open Tip 4" color="FFFFAC0D"/>
+	<Music.PitchName pitch="15" name="Hi-Hat Open Tip 3" color="FFFFAC0D"/>
+	<Music.PitchName pitch="14" name="Hi-Hat Open Tip 2" color="FFFFAC0D"/>
+	<Music.PitchName pitch="13" name="Hi-Hat Open Tip 1" color="FFFFAC0D"/>
+	<Music.PitchName pitch="12" name="Hi-Hat Open Tip 0" color="FFFFAC0D"/>
+	<Music.PitchName pitch="11" name="Hi-Hat Closed Tip" color="FFFFAC0D"/>
+	<Music.PitchName pitch="10" name="Hi-Hat Closed Pedal" color="FFFFAC0D"/>
+	<Music.PitchName pitch="9" name="Hi-Hat Shaft Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="8" name="Hi-Hat Tip Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="7" name="Hi-Hat Edge Trigger" color="FFFFAC0D"/>
+	<Music.PitchName pitch="6" name="Snare Zone Trigger" color="FF51D361"/>
+	<Music.PitchName pitch="4" name="Snare Thump" color="FF51D361"/>
+	<Music.PitchName pitch="3" name="Snare Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="2" name="Snare Sidestick" color="FF51D361"/>
+	<Music.PitchName pitch="1" name="Snare Sidestick" color="FF51D361"/>
+</Music.PitchNameList>

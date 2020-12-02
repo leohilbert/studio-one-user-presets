@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Discover">
+	<Attributes pitch="0" name="Long"/>
+	<Attributes pitch="1" name="Spiccatto"/>
+	<Attributes pitch="2" name="Pizzicato"/>
+	<Attributes pitch="3" name="Tremolo"/>
+</Music.KeySwitchList>

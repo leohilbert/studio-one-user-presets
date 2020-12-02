@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Horns">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Staccatissimo"/>
+	<Attributes pitch="3" name="Marcato"/>
+	<Attributes pitch="4" name="Long Cuivre"/>
+	<Attributes pitch="5" name="Long SFZ"/>
+	<Attributes pitch="6" name="Long Flutter"/>
+	<Attributes pitch="7" name="Multi Tongue"/>
+</Music.KeySwitchList>

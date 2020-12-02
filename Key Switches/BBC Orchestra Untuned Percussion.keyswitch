@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Untuned Percussion">
+	<Attributes pitch="0" name="Anvil"/>
+	<Attributes pitch="1" name="Bass Drum 1"/>
+	<Attributes pitch="2" name="Bass Drum 2"/>
+	<Attributes pitch="3" name="Cymbals"/>
+	<Attributes pitch="4" name="Military Drum"/>
+	<Attributes pitch="5" name="Piatti"/>
+	<Attributes pitch="6" name="Snare 1"/>
+	<Attributes pitch="7" name="Snare 2"/>
+	<Attributes pitch="8" name="Tam Tam"/>
+	<Attributes pitch="9" name="Tmbourine"/>
+	<Attributes pitch="10" name="Tenor Drum"/>
+	<Attributes pitch="11" name="Toys"/>
+	<Attributes pitch="12" name="Triangle"/>
+</Music.KeySwitchList>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Percussions">
+	<Attributes pitch="0" name="Hits"/>
+	<Attributes pitch="1" name="Rolls"/>
+	<Attributes pitch="2" name="Hits Damped"/>
+</Music.KeySwitchList>

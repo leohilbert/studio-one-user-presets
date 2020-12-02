@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Timpani">
+	<Attributes pitch="0" name="Hits"/>
+	<Attributes pitch="1" name="Rolls"/>
+	<Attributes pitch="2" name="Hits Soft"/>
+	<Attributes pitch="3" name="Rolls Soft"/>
+	<Attributes pitch="4" name="Hits Hotrods"/>
+	<Attributes pitch="5" name="Long Rolls Hotrods"/>
+	<Attributes pitch="6" name="Hits Damped"/>
+	<Attributes pitch="7" name="Hits Super Damped"/>
+	<Attributes pitch="8" name="Hotrods Hits Damped"/>
+	<Attributes pitch="9" name="Hits Damped Soft"/>
+</Music.KeySwitchList>

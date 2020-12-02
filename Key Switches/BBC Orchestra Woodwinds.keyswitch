@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Woodwinds">
+	<Attributes pitch="0" name="Legato"/>
+	<Attributes pitch="1" name="Long"/>
+	<Attributes pitch="2" name="Trill Major 2nd"/>
+	<Attributes pitch="3" name="Trill Minor 2nd"/>
+	<Attributes pitch="4" name="Staccatissimo"/>
+	<Attributes pitch="5" name="Tenuto"/>
+	<Attributes pitch="6" name="Marcato"/>
+	<Attributes pitch="7" name="Long Flutter"/>
+	<Attributes pitch="8" name="Multi Tongue"/>
+</Music.KeySwitchList>

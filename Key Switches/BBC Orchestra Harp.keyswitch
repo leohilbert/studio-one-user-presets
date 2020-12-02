@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBC Orchestra Harp">
+	<Attributes pitch="0" name="Sustained"/>
+	<Attributes pitch="1" name="Damped"/>
+	<Attributes pitch="2" name="Damped Medium"/>
+	<Attributes pitch="3" name="Bisbi-Gliando Trem"/>
+	<Attributes pitch="4" name="Gliss FX"/>
+</Music.KeySwitchList>

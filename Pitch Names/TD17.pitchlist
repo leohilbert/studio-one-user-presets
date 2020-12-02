@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="26" name="CC"/>
+	<Music.PitchName pitch="46" name="CC2"/>
+	<Music.PitchName pitch="44" name="HiHat Pedal"/>
+	<Music.PitchName pitch="36" name="Kick"/>
+	<Music.PitchName pitch="38" name="Snare"/>
+	<Music.PitchName pitch="40" name="Snare 2"/>
+	<Music.PitchName pitch="37" name="Snare Rim"/>
+	<Music.PitchName pitch="48" name="Tom 1"/>
+	<Music.PitchName pitch="50" name="Tom 1 Side"/>
+	<Music.PitchName pitch="45" name="Tom 2"/>
+	<Music.PitchName pitch="47" name="Tom 2 Rim"/>
+	<Music.PitchName pitch="43" name="Tom 3"/>
+	<Music.PitchName pitch="58" name="Tom 3 Rim"/>
+	<Music.PitchName pitch="51" name="Ride"/>
+	<Music.PitchName pitch="59" name="Ride Edge"/>
+	<Music.PitchName pitch="53" name="Ride Bell"/>
+	<Music.PitchName pitch="55" name="Main Crash L"/>
+	<Music.PitchName pitch="52" name="Main Crash R"/>
+	<Music.PitchName pitch="49" name="Wide Crash L"/>
+	<Music.PitchName pitch="57" name="Wide Crash R"/>
+</Music.PitchNameList>
