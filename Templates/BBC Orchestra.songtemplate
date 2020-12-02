@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DocumentTemplate>
+	<Attribute id="Document:Title" value="BBC Orchestra"/>
+	<Attribute id="Document:Description" value=""/>
+	<Attribute id="Document:Template" value="BBC Orchestra.data"/>
+</DocumentTemplate>
