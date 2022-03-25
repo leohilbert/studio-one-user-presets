@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Eurobass" target.class="5653544E6924446B6F6E74616B740000">
+	<Attributes name="Pick" color="FFDD6105" id="0" pitch="0" activation="note0"/>
+	<Attributes name="Hammer On" color="FFD89D00" id="1" pitch="1" activation="note1"/>
+	<Attributes name="Pull Off" color="FFE9C400" id="2" pitch="2" activation="note2"/>
+	<Attributes name="Slide Down Slow" color="FFFFFF05" id="3" pitch="3" activation="note3"/>
+	<Attributes name="Slide Down Fast" color="FFCDE700" id="4" pitch="4" activation="note4"/>
+	<Attributes name="Slide Up Slow" color="FFA5FF66" id="5" pitch="5" activation="note5"/>
+	<Attributes name="Slide Up Fast" color="FF96FFA6" id="6" pitch="6" activation="note6"/>
+	<Attributes name="Dead Mute" color="FF12FF8D" id="7" pitch="7" activation="note7"/>
+	<Attributes name="Harmonic Mute" color="FF04FFE1" id="8" pitch="8" activation="note8"/>
+</Music.KeySwitchList>

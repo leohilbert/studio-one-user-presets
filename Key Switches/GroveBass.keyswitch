@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="GroveBass" target.class="5653544E6924446B6F6E74616B740000">
+	<Attributes name="Finger Alternate" color="FFDD6105" id="0" pitch="0" activation="note0"/>
+	<Attributes name="Finger Index" color="FF5A4528" id="1" pitch="1" momentary="1" activation="note1"/>
+	<Attributes name="Finger Middle" color="FF5A4528" id="2" pitch="2" momentary="1" activation="note2"/>
+	<Attributes name="Ghost" color="FF3CAF66" id="3" pitch="3" momentary="1" activation="note3"/>
+	<Attributes name="Slap" color="FF0D0DFF" id="4" pitch="4" momentary="1" activation="note4"/>
+	<Attributes name="Ghost Slap" color="FF04A104" id="5" pitch="5" momentary="1" activation="note5"/>
+	<Attributes name="Pop" color="FF0D0DFF" id="6" pitch="6" momentary="1" activation="note6"/>
+	<Attributes name="Ghost Pop" color="FF04A104" id="7" pitch="7" momentary="1" activation="note7"/>
+	<Attributes name="Harmonic" color="FFD06EBC" id="8" pitch="8" momentary="1" activation="note8"/>
+	<Attributes name="Hammer/Pull" color="FF04E2BE" id="9" pitch="9" momentary="1" activation="note9"/>
+	<Attributes name="Tapping" color="FFD06EBC" id="10" pitch="10" momentary="1" activation="note10"/>
+	<Attributes name="Slide Trigger" color="FFE6E6E6" id="11" pitch="11" momentary="1" activation="note11"/>
+	<Attributes name="Force B String" color="FFFFFF05" id="12" pitch="127" activation="note127"/>
+	<Attributes name="Force E String" color="FFFF6D0A" id="13" pitch="126" activation="note126"/>
+	<Attributes name="Force A String" color="FFBC2807" id="14" pitch="125" activation="note125"/>
+	<Attributes name="Force D String" color="FFA63065" id="15" pitch="124" activation="note124"/>
+	<Attributes name="Force G String" color="FFB03248" id="16" pitch="123" activation="note123"/>
+</Music.KeySwitchList>
