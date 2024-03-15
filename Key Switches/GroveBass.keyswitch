@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Music.KeySwitchList name="GroveBass" target.class="5653544E6924446B6F6E74616B740000">
+<Music.KeySwitchList name="GroveBass" target.class="5653544E694B376B6F6E74616B742037">
 	<Attributes name="Finger Alternate" color="FFDD6105" id="0" pitch="0" activation="note0"/>
 	<Attributes name="Finger Index" color="FF5A4528" id="1" pitch="1" momentary="1" activation="note1"/>
 	<Attributes name="Finger Middle" color="FF5A4528" id="2" pitch="2" momentary="1" activation="note2"/>

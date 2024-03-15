@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Music.PitchNameList>
-	<Music.PitchName pitch="17" name="Hats CC"/>
-	<Music.PitchName pitch="22" name="Kick ADK"/>
-	<Music.PitchName pitch="23" name="Kick Left"/>
-	<Music.PitchName pitch="24" name="Kick Right"/>
-	<Music.PitchName pitch="26" name="Snare Hit"/>
-	<Music.PitchName pitch="27" name="Snare Flam"/>
-	<Music.PitchName pitch="28" name="Snare Ruff"/>
-	<Music.PitchName pitch="29" name="Snare Wires Off"/>
-	<Music.PitchName pitch="30" name="Snare Sidestick"/>
-	<Music.PitchName pitch="33" name="Rack Tom 1: Hit"/>
-	<Music.PitchName pitch="34" name="Rack Tom 2: Hit"/>
-	<Music.PitchName pitch="35" name="Rack Tom 3: Hit"/>
-	<Music.PitchName pitch="36" name="Floor Tom 1: Hit"/>
-	<Music.PitchName pitch="37" name="Floor Tom 2: Hit"/>
-	<Music.PitchName pitch="38" name="Floor Tom 3: Hit"/>
-	<Music.PitchName pitch="41" name="Hats Tip Tight"/>
-	<Music.PitchName pitch="42" name="Hats Edge Tight"/>
-	<Music.PitchName pitch="43" name="Hats Tip Closed"/>
-	<Music.PitchName pitch="44" name="Hats Edge Closed"/>
-	<Music.PitchName pitch="45" name="Hats Open 1"/>
-	<Music.PitchName pitch="46" name="Hats Open 2"/>
-	<Music.PitchName pitch="47" name="Hats Open 3"/>
-	<Music.PitchName pitch="48" name="Hats Pedal"/>
-	<Music.PitchName pitch="52" name="Main Crash L: Hit"/>
-	<Music.PitchName pitch="53" name="Main Crash L: Choke"/>
-	<Music.PitchName pitch="54" name="Main Crash R: Hit"/>
-	<Music.PitchName pitch="55" name="Main Crash R: Choke"/>
-	<Music.PitchName pitch="56" name="Wide Crash L: Hit"/>
-	<Music.PitchName pitch="57" name="Wide Crash L: Choke"/>
-	<Music.PitchName pitch="58" name="Wide Crash R: Hit"/>
-	<Music.PitchName pitch="59" name="Wide Crash R: Choke"/>
-	<Music.PitchName pitch="61" name="Ride Bell"/>
-	<Music.PitchName pitch="62" name="Ride Ride"/>
-	<Music.PitchName pitch="63" name="Ride Edge"/>
-	<Music.PitchName pitch="65" name="China L: Hit"/>
-	<Music.PitchName pitch="66" name="China L: Choke"/>
-	<Music.PitchName pitch="67" name="China R: Hit"/>
-	<Music.PitchName pitch="68" name="China R: Choke"/>
-	<Music.PitchName pitch="70" name="X-Hats Closed"/>
-	<Music.PitchName pitch="71" name="X-Hats Open"/>
-	<Music.PitchName pitch="73" name="Splash L: Hit"/>
-	<Music.PitchName pitch="74" name="Splash L: Choke"/>
-	<Music.PitchName pitch="75" name="Splash C: Hit"/>
-	<Music.PitchName pitch="76" name="Splash C: Choke"/>
-	<Music.PitchName pitch="78" name="Stack: Hit"/>
-	<Music.PitchName pitch="79" name="Bell L: Hit"/>
-	<Music.PitchName pitch="80" name="Bell R: Hit"/>
+<Music.PitchNameList title="Invasion">
+	<Music.PitchName pitch="22" name="Kick ADK" scorePitch="65"/>
+	<Music.PitchName pitch="23" name="Kick Left" scorePitch="64"/>
+	<Music.PitchName pitch="24" name="Kick Right" scorePitch="62"/>
+	<Music.PitchName pitch="26" name="Snare Hit" scorePitch="72"/>
+	<Music.PitchName pitch="27" name="Snare Flam" scorePitch="72"/>
+	<Music.PitchName pitch="28" name="Snare Ruff" scorePitch="72"/>
+	<Music.PitchName pitch="29" name="Snare Wires Off" scorePitch="72"/>
+	<Music.PitchName pitch="30" name="Snare Sidestick" scorePitch="72" notehead="nhdX"/>
+	<Music.PitchName pitch="33" name="Rack Tom 1: Hit" scorePitch="77"/>
+	<Music.PitchName pitch="34" name="Rack Tom 2: Hit" scorePitch="76"/>
+	<Music.PitchName pitch="35" name="Rack Tom 3: Hit" scorePitch="74"/>
+	<Music.PitchName pitch="36" name="Floor Tom 1: Hit" scorePitch="71"/>
+	<Music.PitchName pitch="37" name="Floor Tom 2: Hit" scorePitch="69"/>
+	<Music.PitchName pitch="38" name="Floor Tom 3: Hit" scorePitch="67"/>
+	<Music.PitchName pitch="41" name="Hats Tip Tight" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="42" name="Hats Edge Tight" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="43" name="Hats Tip Closed" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="44" name="Hats Edge Closed" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="17" name="Hats CC" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="45" name="Hats Open 1" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="46" name="Hats Open 2" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="47" name="Hats Open 3" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="48" name="Hats Pedal" scorePitch="65" notehead="nhdX"/>
+	<Music.PitchName pitch="52" name="Main Crash L: Hit" scorePitch="81" notehead="nhdX"/>
+	<Music.PitchName pitch="53" name="Main Crash L: Choke" scorePitch="79" notehead="nhdX" technique="stac"/>
+	<Music.PitchName pitch="54" name="Main Crash R: Hit" scorePitch="83" notehead="nhdX"/>
+	<Music.PitchName pitch="55" name="Main Crash R: Choke" scorePitch="81" notehead="nhdX" technique="stac"/>
+	<Music.PitchName pitch="56" name="Wide Crash L: Hit" scorePitch="84" notehead="nhdX"/>
+	<Music.PitchName pitch="57" name="Wide Crash L: Choke" scorePitch="83" notehead="nhdX" technique="stac"/>
+	<Music.PitchName pitch="58" name="Wide Crash R: Hit" scorePitch="86" notehead="nhdX"/>
+	<Music.PitchName pitch="59" name="Wide Crash R: Choke" scorePitch="84" notehead="nhdX" technique="stac"/>
+	<Music.PitchName pitch="61" name="Ride Bell" scorePitch="77" notehead="nhDi"/>
+	<Music.PitchName pitch="62" name="Ride Ride" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="63" name="Ride Edge" scorePitch="77" notehead="nhdX"/>
+	<Music.PitchName pitch="65" name="China L: Hit" scorePitch="89" notehead="nhCX"/>
+	<Music.PitchName pitch="66" name="China L: Choke" scorePitch="89" notehead="nhCX"/>
+	<Music.PitchName pitch="67" name="China R: Hit" scorePitch="89" notehead="nhCX"/>
+	<Music.PitchName pitch="68" name="China R: Choke" scorePitch="89" notehead="nhCX"/>
+	<Music.PitchName pitch="70" name="X-Hats Closed" scorePitch="79" notehead="nhdX"/>
+	<Music.PitchName pitch="71" name="X-Hats Open" scorePitch="79" notehead="nhdX" technique="circ"/>
+	<Music.PitchName pitch="73" name="Splash L: Hit" scorePitch="89" notehead="nhDi"/>
+	<Music.PitchName pitch="74" name="Splash L: Choke" scorePitch="89" notehead="nhDi"/>
+	<Music.PitchName pitch="75" name="Splash C: Hit" scorePitch="89" notehead="nhDi"/>
+	<Music.PitchName pitch="76" name="Splash C: Choke" scorePitch="89" notehead="nhDi"/>
+	<Music.PitchName pitch="78" name="Stack: Hit" scorePitch="89" notehead="nhdX"/>
+	<Music.PitchName pitch="79" name="Bell L: Hit" scorePitch="91" notehead="nhDi"/>
+	<Music.PitchName pitch="80" name="Bell R: Hit" scorePitch="91" notehead="nhDi"/>
 </Music.PitchNameList>

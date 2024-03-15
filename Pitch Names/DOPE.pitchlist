@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList title="DOPE">
+	<Music.PitchName pitch="36" name="BD1" scorePitch="83" notehead="nhdX"/>
+	<Music.PitchName pitch="37" name="BD2" scorePitch="84" notehead="nhdX"/>
+	<Music.PitchName pitch="38" name="SN1" scorePitch="86" notehead="nhdX"/>
+	<Music.PitchName pitch="39" name="Perc" scorePitch="88" notehead="nhdX"/>
+	<Music.PitchName pitch="40" name="SN2" scorePitch="89" notehead="nhdX"/>
+	<Music.PitchName pitch="41" name="Tom L" scorePitch="69"/>
+	<Music.PitchName pitch="42" name="HH1" scorePitch="91" notehead="nhdX"/>
+	<Music.PitchName pitch="43" name="Tom M" scorePitch="67"/>
+	<Music.PitchName pitch="44" name="HH2" scorePitch="93" notehead="nhdX"/>
+	<Music.PitchName pitch="45" name="Tom H" scorePitch="71"/>
+	<Music.PitchName pitch="46" name="HH3" scorePitch="93"/>
+	<Music.PitchName pitch="47" name="FX1" scorePitch="93"/>
+	<Music.PitchName pitch="48" name="FX2" scorePitch="93"/>
+	<Music.PitchName pitch="49" name="CY1" scorePitch="93"/>
+	<Music.PitchName pitch="50" name="VOX" scorePitch="93"/>
+	<Music.PitchName pitch="51" name="CY2" scorePitch="93"/>
+</Music.PitchNameList>
